@@ -11,7 +11,7 @@ Hello! Im Nidal Raed,This is the official README file for the **wireframe and a 
 
 To get a visual idea of how our project is structured, you can check out the wireframe we've created. Here's the link:
 
-[Wireframe]https://www.figma.com/file/RDs6cbvxywd06iHFE5q6vx/Untitled?type=design&node-id=1-2&mode=design&t=pEimTbCPGAu0dcOZ-0)
+[Wireframe](https://www.figma.com/file/RDs6cbvxywd06iHFE5q6vx/Untitled?type=design&node-id=1-2&mode=design&t=pEimTbCPGAu0dcOZ-0)
 
 ## Mock-up
 
