@@ -17,7 +17,7 @@ To get a visual idea of how our project is structured, you can check out the wir
 
 For a more detailed and polished look at our project, take a look at our mock-up design. Here's the link:
 
-[Mock-up](lhttps://www.figma.com/file/C9cK5L3uSZToqyBzcaGRk1/Eventpro?type=design&node-id=0-1&mode=design&t=LH6K7TzPzYJEGhhU-0)
+[Mock-up](https://www.figma.com/file/C9cK5L3uSZToqyBzcaGRk1/Eventpro?type=design&node-id=0-1&mode=design&t=LH6K7TzPzYJEGhhU-0)
 
 ## Getting Started
 
